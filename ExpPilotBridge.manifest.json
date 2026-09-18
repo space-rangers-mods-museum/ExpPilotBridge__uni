@@ -22,8 +22,9 @@
   ],
   "exhibit_archive": {
     "path": "ExpPilotBridge.zip",
-    "size": 28717783,
-    "sha256": "2d58edabc7520e43fecb7619101bee0a0231323d680696fdb0fa53e13180df1b",
+    "size": 28720603,
+    "sha256": "dc67efd3d6df87f6c00623209aae425b2b7e3dce2594b5048186a62d13329f62",
+    "root": "Mods/Expansion/ExpPilotBridge",
     "entries": 47
   },
   "files": [

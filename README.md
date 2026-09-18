@@ -116,7 +116,7 @@ acquire:
 | DATA/Sounds/Piano_3.wav                       | 02f59efa2aba3a6bec868db7cfb7c63901bcb51f39d2d5240df672ff74c0ce30 |
 | ModuleInfo.txt                                | 656b39b589ac82f73af1685f6fc522ffe19b01296aab577eef2bc64173e592a2 |
 
-> Final archive: [`ExpPilotBridge.zip`](https://github.com/space-rangers-mods-museum/ExpPilotBridge__uni/releases/download/v1.0.0/ExpPilotBridge.zip) · SHA-256 `2d58edabc7520e43fecb7619101bee0a0231323d680696fdb0fa53e13180df1b`
+> Final archive: [`ExpPilotBridge.zip`](https://github.com/space-rangers-mods-museum/ExpPilotBridge__uni/releases/download/v1.0.0/ExpPilotBridge.zip) · SHA-256 `dc67efd3d6df87f6c00623209aae425b2b7e3dce2594b5048186a62d13329f62`
 
 ---
 
